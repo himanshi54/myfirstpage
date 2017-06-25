@@ -6,6 +6,7 @@
 
 <?php
 echo "Hello terrible World!";
+  echo "it sucks";
 ?> 
 
 </body>
